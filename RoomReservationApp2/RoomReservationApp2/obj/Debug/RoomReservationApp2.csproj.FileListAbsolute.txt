@@ -1,0 +1,17 @@
+E:\Programacion\Practica Bitwise\RoomReservationApp2\RoomReservationApp2\bin\Debug\RoomReservationApp2.exe.config
+E:\Programacion\Practica Bitwise\RoomReservationApp2\RoomReservationApp2\bin\Debug\RoomReservationApp2.exe
+E:\Programacion\Practica Bitwise\RoomReservationApp2\RoomReservationApp2\bin\Debug\RoomReservationApp2.pdb
+E:\Programacion\Practica Bitwise\RoomReservationApp2\RoomReservationApp2\bin\Debug\EntityFramework.dll
+E:\Programacion\Practica Bitwise\RoomReservationApp2\RoomReservationApp2\bin\Debug\EntityFramework.SqlServer.dll
+E:\Programacion\Practica Bitwise\RoomReservationApp2\RoomReservationApp2\bin\Debug\EntityFramework.xml
+E:\Programacion\Practica Bitwise\RoomReservationApp2\RoomReservationApp2\bin\Debug\EntityFramework.SqlServer.xml
+E:\Programacion\Practica Bitwise\RoomReservationApp2\RoomReservationApp2\obj\Debug\RoomReservationApp2.csproj.AssemblyReference.cache
+E:\Programacion\Practica Bitwise\RoomReservationApp2\RoomReservationApp2\obj\Debug\RoomReservationApp2.csproj.SuggestedBindingRedirects.cache
+E:\Programacion\Practica Bitwise\RoomReservationApp2\RoomReservationApp2\obj\Debug\RoomReservationApp2.Form1.resources
+E:\Programacion\Practica Bitwise\RoomReservationApp2\RoomReservationApp2\obj\Debug\RoomReservationApp2.FrmPeliculas.resources
+E:\Programacion\Practica Bitwise\RoomReservationApp2\RoomReservationApp2\obj\Debug\RoomReservationApp2.Properties.Resources.resources
+E:\Programacion\Practica Bitwise\RoomReservationApp2\RoomReservationApp2\obj\Debug\RoomReservationApp2.csproj.GenerateResource.cache
+E:\Programacion\Practica Bitwise\RoomReservationApp2\RoomReservationApp2\obj\Debug\RoomReservationApp2.csproj.CoreCompileInputs.cache
+E:\Programacion\Practica Bitwise\RoomReservationApp2\RoomReservationApp2\obj\Debug\RoomReservationApp2.csproj.CopyComplete
+E:\Programacion\Practica Bitwise\RoomReservationApp2\RoomReservationApp2\obj\Debug\RoomReservationApp2.exe
+E:\Programacion\Practica Bitwise\RoomReservationApp2\RoomReservationApp2\obj\Debug\RoomReservationApp2.pdb

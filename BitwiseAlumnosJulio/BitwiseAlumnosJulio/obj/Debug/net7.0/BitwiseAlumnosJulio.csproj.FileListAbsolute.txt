@@ -1,0 +1,78 @@
+C:\Users\DELL\Documents\Bitwise Training JulioAgosto\BitwiseAlumnosJulio\BitwiseAlumnosJulio\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\DELL\Documents\Bitwise Training JulioAgosto\BitwiseAlumnosJulio\BitwiseAlumnosJulio\bin\Debug\net7.0\appsettings.json
+C:\Users\DELL\Documents\Bitwise Training JulioAgosto\BitwiseAlumnosJulio\BitwiseAlumnosJulio\bin\Debug\net7.0\BitwiseAlumnosJulio.exe
+C:\Users\DELL\Documents\Bitwise Training JulioAgosto\BitwiseAlumnosJulio\BitwiseAlumnosJulio\bin\Debug\net7.0\BitwiseAlumnosJulio.deps.json
+C:\Users\DELL\Documents\Bitwise Training JulioAgosto\BitwiseAlumnosJulio\BitwiseAlumnosJulio\bin\Debug\net7.0\BitwiseAlumnosJulio.runtimeconfig.json
+C:\Users\DELL\Documents\Bitwise Training JulioAgosto\BitwiseAlumnosJulio\BitwiseAlumnosJulio\bin\Debug\net7.0\BitwiseAlumnosJulio.dll
+C:\Users\DELL\Documents\Bitwise Training JulioAgosto\BitwiseAlumnosJulio\BitwiseAlumnosJulio\bin\Debug\net7.0\BitwiseAlumnosJulio.pdb
+C:\Users\DELL\Documents\Bitwise Training JulioAgosto\BitwiseAlumnosJulio\BitwiseAlumnosJulio\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\DELL\Documents\Bitwise Training JulioAgosto\BitwiseAlumnosJulio\BitwiseAlumnosJulio\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\DELL\Documents\Bitwise Training JulioAgosto\BitwiseAlumnosJulio\BitwiseAlumnosJulio\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\DELL\Documents\Bitwise Training JulioAgosto\BitwiseAlumnosJulio\BitwiseAlumnosJulio\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\DELL\Documents\Bitwise Training JulioAgosto\BitwiseAlumnosJulio\BitwiseAlumnosJulio\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\DELL\Documents\Bitwise Training JulioAgosto\BitwiseAlumnosJulio\BitwiseAlumnosJulio\obj\Debug\net7.0\BitwiseAlumnosJulio.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\Bitwise Training JulioAgosto\BitwiseAlumnosJulio\BitwiseAlumnosJulio\obj\Debug\net7.0\BitwiseAlumnosJulio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\Bitwise Training JulioAgosto\BitwiseAlumnosJulio\BitwiseAlumnosJulio\obj\Debug\net7.0\BitwiseAlumnosJulio.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\Bitwise Training JulioAgosto\BitwiseAlumnosJulio\BitwiseAlumnosJulio\obj\Debug\net7.0\BitwiseAlumnosJulio.AssemblyInfo.cs
+C:\Users\DELL\Documents\Bitwise Training JulioAgosto\BitwiseAlumnosJulio\BitwiseAlumnosJulio\obj\Debug\net7.0\BitwiseAlumnosJulio.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\Bitwise Training JulioAgosto\BitwiseAlumnosJulio\BitwiseAlumnosJulio\obj\Debug\net7.0\BitwiseAlumnosJulio.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DELL\Documents\Bitwise Training JulioAgosto\BitwiseAlumnosJulio\BitwiseAlumnosJulio\obj\Debug\net7.0\BitwiseAlumnosJulio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\Documents\Bitwise Training JulioAgosto\BitwiseAlumnosJulio\BitwiseAlumnosJulio\obj\Debug\net7.0\staticwebassets\msbuild.BitwiseAlumnosJulio.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DELL\Documents\Bitwise Training JulioAgosto\BitwiseAlumnosJulio\BitwiseAlumnosJulio\obj\Debug\net7.0\staticwebassets\msbuild.build.BitwiseAlumnosJulio.props
+C:\Users\DELL\Documents\Bitwise Training JulioAgosto\BitwiseAlumnosJulio\BitwiseAlumnosJulio\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BitwiseAlumnosJulio.props
+C:\Users\DELL\Documents\Bitwise Training JulioAgosto\BitwiseAlumnosJulio\BitwiseAlumnosJulio\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BitwiseAlumnosJulio.props
+C:\Users\DELL\Documents\Bitwise Training JulioAgosto\BitwiseAlumnosJulio\BitwiseAlumnosJulio\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\DELL\Documents\Bitwise Training JulioAgosto\BitwiseAlumnosJulio\BitwiseAlumnosJulio\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\DELL\Documents\Bitwise Training JulioAgosto\BitwiseAlumnosJulio\BitwiseAlumnosJulio\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\DELL\Documents\Bitwise Training JulioAgosto\BitwiseAlumnosJulio\BitwiseAlumnosJulio\obj\Debug\net7.0\scopedcss\bundle\BitwiseAlumnosJulio.styles.css
+C:\Users\DELL\Documents\Bitwise Training JulioAgosto\BitwiseAlumnosJulio\BitwiseAlumnosJulio\obj\Debug\net7.0\BitwiseAlumnosJulio.csproj.CopyComplete
+C:\Users\DELL\Documents\Bitwise Training JulioAgosto\BitwiseAlumnosJulio\BitwiseAlumnosJulio\obj\Debug\net7.0\BitwiseAlumnosJulio.dll
+C:\Users\DELL\Documents\Bitwise Training JulioAgosto\BitwiseAlumnosJulio\BitwiseAlumnosJulio\obj\Debug\net7.0\refint\BitwiseAlumnosJulio.dll
+C:\Users\DELL\Documents\Bitwise Training JulioAgosto\BitwiseAlumnosJulio\BitwiseAlumnosJulio\obj\Debug\net7.0\BitwiseAlumnosJulio.pdb
+C:\Users\DELL\Documents\Bitwise Training JulioAgosto\BitwiseAlumnosJulio\BitwiseAlumnosJulio\obj\Debug\net7.0\BitwiseAlumnosJulio.genruntimeconfig.cache
+C:\Users\DELL\Documents\Bitwise Training JulioAgosto\BitwiseAlumnosJulio\BitwiseAlumnosJulio\obj\Debug\net7.0\ref\BitwiseAlumnosJulio.dll
+C:\Users\DELL\Documents\Bitwise Training JulioAgosto\BitwiseAlumnosJulio\BitwiseAlumnosJulio\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\DELL\Documents\Bitwise Training JulioAgosto\BitwiseAlumnosJulio\BitwiseAlumnosJulio\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\DELL\Documents\Bitwise Training JulioAgosto\BitwiseAlumnosJulio\BitwiseAlumnosJulio\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\DELL\Documents\Bitwise Training JulioAgosto\BitwiseAlumnosJulio\BitwiseAlumnosJulio\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\DELL\Documents\Bitwise Training JulioAgosto\BitwiseAlumnosJulio\BitwiseAlumnosJulio\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DELL\Documents\Bitwise Training JulioAgosto\BitwiseAlumnosJulio\BitwiseAlumnosJulio\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Programacion\Practica Bitwise\BitwiseAlumnosJulio\BitwiseAlumnosJulio\bin\Debug\net7.0\appsettings.Development.json
+E:\Programacion\Practica Bitwise\BitwiseAlumnosJulio\BitwiseAlumnosJulio\bin\Debug\net7.0\appsettings.json
+E:\Programacion\Practica Bitwise\BitwiseAlumnosJulio\BitwiseAlumnosJulio\bin\Debug\net7.0\BitwiseAlumnosJulio.exe
+E:\Programacion\Practica Bitwise\BitwiseAlumnosJulio\BitwiseAlumnosJulio\bin\Debug\net7.0\BitwiseAlumnosJulio.deps.json
+E:\Programacion\Practica Bitwise\BitwiseAlumnosJulio\BitwiseAlumnosJulio\bin\Debug\net7.0\BitwiseAlumnosJulio.runtimeconfig.json
+E:\Programacion\Practica Bitwise\BitwiseAlumnosJulio\BitwiseAlumnosJulio\bin\Debug\net7.0\BitwiseAlumnosJulio.dll
+E:\Programacion\Practica Bitwise\BitwiseAlumnosJulio\BitwiseAlumnosJulio\bin\Debug\net7.0\BitwiseAlumnosJulio.pdb
+E:\Programacion\Practica Bitwise\BitwiseAlumnosJulio\BitwiseAlumnosJulio\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Programacion\Practica Bitwise\BitwiseAlumnosJulio\BitwiseAlumnosJulio\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\Programacion\Practica Bitwise\BitwiseAlumnosJulio\BitwiseAlumnosJulio\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Programacion\Practica Bitwise\BitwiseAlumnosJulio\BitwiseAlumnosJulio\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Programacion\Practica Bitwise\BitwiseAlumnosJulio\BitwiseAlumnosJulio\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Programacion\Practica Bitwise\BitwiseAlumnosJulio\BitwiseAlumnosJulio\bin\Debug\net7.0\System.Data.SqlClient.dll
+E:\Programacion\Practica Bitwise\BitwiseAlumnosJulio\BitwiseAlumnosJulio\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+E:\Programacion\Practica Bitwise\BitwiseAlumnosJulio\BitwiseAlumnosJulio\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+E:\Programacion\Practica Bitwise\BitwiseAlumnosJulio\BitwiseAlumnosJulio\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+E:\Programacion\Practica Bitwise\BitwiseAlumnosJulio\BitwiseAlumnosJulio\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Programacion\Practica Bitwise\BitwiseAlumnosJulio\BitwiseAlumnosJulio\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Programacion\Practica Bitwise\BitwiseAlumnosJulio\BitwiseAlumnosJulio\obj\Debug\net7.0\BitwiseAlumnosJulio.csproj.AssemblyReference.cache
+E:\Programacion\Practica Bitwise\BitwiseAlumnosJulio\BitwiseAlumnosJulio\obj\Debug\net7.0\BitwiseAlumnosJulio.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programacion\Practica Bitwise\BitwiseAlumnosJulio\BitwiseAlumnosJulio\obj\Debug\net7.0\BitwiseAlumnosJulio.AssemblyInfoInputs.cache
+E:\Programacion\Practica Bitwise\BitwiseAlumnosJulio\BitwiseAlumnosJulio\obj\Debug\net7.0\BitwiseAlumnosJulio.AssemblyInfo.cs
+E:\Programacion\Practica Bitwise\BitwiseAlumnosJulio\BitwiseAlumnosJulio\obj\Debug\net7.0\BitwiseAlumnosJulio.csproj.CoreCompileInputs.cache
+E:\Programacion\Practica Bitwise\BitwiseAlumnosJulio\BitwiseAlumnosJulio\obj\Debug\net7.0\BitwiseAlumnosJulio.MvcApplicationPartsAssemblyInfo.cs
+E:\Programacion\Practica Bitwise\BitwiseAlumnosJulio\BitwiseAlumnosJulio\obj\Debug\net7.0\BitwiseAlumnosJulio.MvcApplicationPartsAssemblyInfo.cache
+E:\Programacion\Practica Bitwise\BitwiseAlumnosJulio\BitwiseAlumnosJulio\obj\Debug\net7.0\staticwebassets\msbuild.BitwiseAlumnosJulio.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Programacion\Practica Bitwise\BitwiseAlumnosJulio\BitwiseAlumnosJulio\obj\Debug\net7.0\staticwebassets\msbuild.build.BitwiseAlumnosJulio.props
+E:\Programacion\Practica Bitwise\BitwiseAlumnosJulio\BitwiseAlumnosJulio\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BitwiseAlumnosJulio.props
+E:\Programacion\Practica Bitwise\BitwiseAlumnosJulio\BitwiseAlumnosJulio\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BitwiseAlumnosJulio.props
+E:\Programacion\Practica Bitwise\BitwiseAlumnosJulio\BitwiseAlumnosJulio\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Programacion\Practica Bitwise\BitwiseAlumnosJulio\BitwiseAlumnosJulio\obj\Debug\net7.0\staticwebassets.build.json
+E:\Programacion\Practica Bitwise\BitwiseAlumnosJulio\BitwiseAlumnosJulio\obj\Debug\net7.0\staticwebassets.development.json
+E:\Programacion\Practica Bitwise\BitwiseAlumnosJulio\BitwiseAlumnosJulio\obj\Debug\net7.0\scopedcss\bundle\BitwiseAlumnosJulio.styles.css
+E:\Programacion\Practica Bitwise\BitwiseAlumnosJulio\BitwiseAlumnosJulio\obj\Debug\net7.0\BitwiseAlumnosJulio.csproj.CopyComplete
+E:\Programacion\Practica Bitwise\BitwiseAlumnosJulio\BitwiseAlumnosJulio\obj\Debug\net7.0\BitwiseAlumnosJulio.dll
+E:\Programacion\Practica Bitwise\BitwiseAlumnosJulio\BitwiseAlumnosJulio\obj\Debug\net7.0\refint\BitwiseAlumnosJulio.dll
+E:\Programacion\Practica Bitwise\BitwiseAlumnosJulio\BitwiseAlumnosJulio\obj\Debug\net7.0\BitwiseAlumnosJulio.pdb
+E:\Programacion\Practica Bitwise\BitwiseAlumnosJulio\BitwiseAlumnosJulio\obj\Debug\net7.0\BitwiseAlumnosJulio.genruntimeconfig.cache
+E:\Programacion\Practica Bitwise\BitwiseAlumnosJulio\BitwiseAlumnosJulio\obj\Debug\net7.0\ref\BitwiseAlumnosJulio.dll

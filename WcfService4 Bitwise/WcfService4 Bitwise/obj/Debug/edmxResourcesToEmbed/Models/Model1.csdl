@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="AlumnosBitwiseModel3" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="AlumnosQuimica">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Dni" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="Nombre" Type="String" MaxLength="15" FixedLength="false" Unicode="false" />
+    <Property Name="Ciudad" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="Domicilio" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityContainer Name="AlumnosBitwiseEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="AlumnosQuimica" EntityType="Self.AlumnosQuimica" />
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Bitwise 7 EntityFramework.props" />
+</Project>

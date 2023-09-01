@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\BibliotecaAPIBitwise2.props" />
+</Project>

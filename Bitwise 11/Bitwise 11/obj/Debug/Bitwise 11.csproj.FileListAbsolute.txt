@@ -1,0 +1,7 @@
+E:\Programacion\Practica Bitwise\Bitwise 11\Bitwise 11\bin\Bitwise 11.dll.config
+E:\Programacion\Practica Bitwise\Bitwise 11\Bitwise 11\bin\Bitwise 11.dll
+E:\Programacion\Practica Bitwise\Bitwise 11\Bitwise 11\bin\Bitwise 11.pdb
+E:\Programacion\Practica Bitwise\Bitwise 11\Bitwise 11\obj\Debug\Bitwise 11.csproj.AssemblyReference.cache
+E:\Programacion\Practica Bitwise\Bitwise 11\Bitwise 11\obj\Debug\Bitwise 11.csproj.CoreCompileInputs.cache
+E:\Programacion\Practica Bitwise\Bitwise 11\Bitwise 11\obj\Debug\Bitwise 11.dll
+E:\Programacion\Practica Bitwise\Bitwise 11\Bitwise 11\obj\Debug\Bitwise 11.pdb

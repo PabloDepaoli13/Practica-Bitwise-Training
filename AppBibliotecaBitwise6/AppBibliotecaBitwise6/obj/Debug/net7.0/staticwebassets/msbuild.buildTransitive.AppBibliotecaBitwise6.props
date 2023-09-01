@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\AppBibliotecaBitwise6.props" />
+</Project>

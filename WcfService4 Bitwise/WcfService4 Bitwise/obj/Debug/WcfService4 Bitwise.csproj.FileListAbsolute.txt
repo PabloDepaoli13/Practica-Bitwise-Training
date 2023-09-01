@@ -1,0 +1,12 @@
+E:\Programacion\Practica Bitwise\WcfService4 Bitwise\WcfService4 Bitwise\bin\WcfService4 Bitwise.dll.config
+E:\Programacion\Practica Bitwise\WcfService4 Bitwise\WcfService4 Bitwise\bin\WcfService4 Bitwise.dll
+E:\Programacion\Practica Bitwise\WcfService4 Bitwise\WcfService4 Bitwise\bin\WcfService4 Bitwise.pdb
+E:\Programacion\Practica Bitwise\WcfService4 Bitwise\WcfService4 Bitwise\bin\EntityFramework.dll
+E:\Programacion\Practica Bitwise\WcfService4 Bitwise\WcfService4 Bitwise\bin\EntityFramework.SqlServer.dll
+E:\Programacion\Practica Bitwise\WcfService4 Bitwise\WcfService4 Bitwise\bin\EntityFramework.xml
+E:\Programacion\Practica Bitwise\WcfService4 Bitwise\WcfService4 Bitwise\bin\EntityFramework.SqlServer.xml
+E:\Programacion\Practica Bitwise\WcfService4 Bitwise\WcfService4 Bitwise\obj\Debug\WcfService4 Bitwise.csproj.AssemblyReference.cache
+E:\Programacion\Practica Bitwise\WcfService4 Bitwise\WcfService4 Bitwise\obj\Debug\WcfService4 Bitwise.csproj.CoreCompileInputs.cache
+E:\Programacion\Practica Bitwise\WcfService4 Bitwise\WcfService4 Bitwise\obj\Debug\WcfService4 Bitwise.csproj.CopyComplete
+E:\Programacion\Practica Bitwise\WcfService4 Bitwise\WcfService4 Bitwise\obj\Debug\WcfService4 Bitwise.dll
+E:\Programacion\Practica Bitwise\WcfService4 Bitwise\WcfService4 Bitwise\obj\Debug\WcfService4 Bitwise.pdb

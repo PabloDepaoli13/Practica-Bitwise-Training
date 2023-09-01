@@ -1,0 +1,38 @@
+E:\Programacion\Practica Bitwise\Bitwise 1\Bitwise 1\bin\Debug\net6.0\appsettings.Development.json
+E:\Programacion\Practica Bitwise\Bitwise 1\Bitwise 1\bin\Debug\net6.0\appsettings.json
+E:\Programacion\Practica Bitwise\Bitwise 1\Bitwise 1\bin\Debug\net6.0\Bitwise 1.exe
+E:\Programacion\Practica Bitwise\Bitwise 1\Bitwise 1\bin\Debug\net6.0\Bitwise 1.deps.json
+E:\Programacion\Practica Bitwise\Bitwise 1\Bitwise 1\bin\Debug\net6.0\Bitwise 1.runtimeconfig.json
+E:\Programacion\Practica Bitwise\Bitwise 1\Bitwise 1\bin\Debug\net6.0\Bitwise 1.dll
+E:\Programacion\Practica Bitwise\Bitwise 1\Bitwise 1\bin\Debug\net6.0\Bitwise 1.pdb
+E:\Programacion\Practica Bitwise\Bitwise 1\Bitwise 1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Programacion\Practica Bitwise\Bitwise 1\Bitwise 1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Programacion\Practica Bitwise\Bitwise 1\Bitwise 1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Programacion\Practica Bitwise\Bitwise 1\Bitwise 1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Programacion\Practica Bitwise\Bitwise 1\Bitwise 1\obj\Debug\net6.0\Bitwise 1.csproj.AssemblyReference.cache
+E:\Programacion\Practica Bitwise\Bitwise 1\Bitwise 1\obj\Debug\net6.0\Bitwise 1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programacion\Practica Bitwise\Bitwise 1\Bitwise 1\obj\Debug\net6.0\Bitwise 1.AssemblyInfoInputs.cache
+E:\Programacion\Practica Bitwise\Bitwise 1\Bitwise 1\obj\Debug\net6.0\Bitwise 1.AssemblyInfo.cs
+E:\Programacion\Practica Bitwise\Bitwise 1\Bitwise 1\obj\Debug\net6.0\Bitwise 1.csproj.CoreCompileInputs.cache
+E:\Programacion\Practica Bitwise\Bitwise 1\Bitwise 1\obj\Debug\net6.0\Bitwise 1.MvcApplicationPartsAssemblyInfo.cs
+E:\Programacion\Practica Bitwise\Bitwise 1\Bitwise 1\obj\Debug\net6.0\Bitwise 1.MvcApplicationPartsAssemblyInfo.cache
+E:\Programacion\Practica Bitwise\Bitwise 1\Bitwise 1\obj\Debug\net6.0\staticwebassets\msbuild.Bitwise 1.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Programacion\Practica Bitwise\Bitwise 1\Bitwise 1\obj\Debug\net6.0\staticwebassets\msbuild.build.Bitwise 1.props
+E:\Programacion\Practica Bitwise\Bitwise 1\Bitwise 1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Bitwise 1.props
+E:\Programacion\Practica Bitwise\Bitwise 1\Bitwise 1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Bitwise 1.props
+E:\Programacion\Practica Bitwise\Bitwise 1\Bitwise 1\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Programacion\Practica Bitwise\Bitwise 1\Bitwise 1\obj\Debug\net6.0\staticwebassets.build.json
+E:\Programacion\Practica Bitwise\Bitwise 1\Bitwise 1\obj\Debug\net6.0\staticwebassets.development.json
+E:\Programacion\Practica Bitwise\Bitwise 1\Bitwise 1\obj\Debug\net6.0\scopedcss\bundle\Bitwise 1.styles.css
+E:\Programacion\Practica Bitwise\Bitwise 1\Bitwise 1\obj\Debug\net6.0\Bitwise 1.csproj.CopyComplete
+E:\Programacion\Practica Bitwise\Bitwise 1\Bitwise 1\obj\Debug\net6.0\Bitwise 1.dll
+E:\Programacion\Practica Bitwise\Bitwise 1\Bitwise 1\obj\Debug\net6.0\refint\Bitwise 1.dll
+E:\Programacion\Practica Bitwise\Bitwise 1\Bitwise 1\obj\Debug\net6.0\Bitwise 1.pdb
+E:\Programacion\Practica Bitwise\Bitwise 1\Bitwise 1\obj\Debug\net6.0\Bitwise 1.genruntimeconfig.cache
+E:\Programacion\Practica Bitwise\Bitwise 1\Bitwise 1\obj\Debug\net6.0\ref\Bitwise 1.dll
+E:\Programacion\Practica Bitwise\Bitwise 1\Bitwise 1\bin\Debug\net6.0\System.Data.SqlClient.dll
+E:\Programacion\Practica Bitwise\Bitwise 1\Bitwise 1\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+E:\Programacion\Practica Bitwise\Bitwise 1\Bitwise 1\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+E:\Programacion\Practica Bitwise\Bitwise 1\Bitwise 1\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+E:\Programacion\Practica Bitwise\Bitwise 1\Bitwise 1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Programacion\Practica Bitwise\Bitwise 1\Bitwise 1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

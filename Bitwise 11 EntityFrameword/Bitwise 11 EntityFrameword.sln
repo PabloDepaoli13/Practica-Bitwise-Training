@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bitwise 11 EntityFrameword", "Bitwise 11 EntityFrameword\Bitwise 11 EntityFrameword.csproj", "{55FD44AE-722E-4656-8982-FCA9CA6B2416}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55FD44AE-722E-4656-8982-FCA9CA6B2416}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55FD44AE-722E-4656-8982-FCA9CA6B2416}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55FD44AE-722E-4656-8982-FCA9CA6B2416}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55FD44AE-722E-4656-8982-FCA9CA6B2416}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B3559F9-3B10-488F-8D31-6AAAC6EA7FA7}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,17 @@
+E:\Programacion\Practica Bitwise\RoomReservationApp 1\RoomReservationApp 1\bin\Debug\RoomReservationApp 1.exe.config
+E:\Programacion\Practica Bitwise\RoomReservationApp 1\RoomReservationApp 1\bin\Debug\RoomReservationApp 1.exe
+E:\Programacion\Practica Bitwise\RoomReservationApp 1\RoomReservationApp 1\bin\Debug\RoomReservationApp 1.pdb
+E:\Programacion\Practica Bitwise\RoomReservationApp 1\RoomReservationApp 1\bin\Debug\EntityFramework.dll
+E:\Programacion\Practica Bitwise\RoomReservationApp 1\RoomReservationApp 1\bin\Debug\EntityFramework.SqlServer.dll
+E:\Programacion\Practica Bitwise\RoomReservationApp 1\RoomReservationApp 1\bin\Debug\EntityFramework.xml
+E:\Programacion\Practica Bitwise\RoomReservationApp 1\RoomReservationApp 1\bin\Debug\EntityFramework.SqlServer.xml
+E:\Programacion\Practica Bitwise\RoomReservationApp 1\RoomReservationApp 1\obj\Debug\RoomReservationApp 1.csproj.AssemblyReference.cache
+E:\Programacion\Practica Bitwise\RoomReservationApp 1\RoomReservationApp 1\obj\Debug\RoomReservationApp 1.csproj.SuggestedBindingRedirects.cache
+E:\Programacion\Practica Bitwise\RoomReservationApp 1\RoomReservationApp 1\obj\Debug\RoomReservationApp_1.Properties.Resources.resources
+E:\Programacion\Practica Bitwise\RoomReservationApp 1\RoomReservationApp 1\obj\Debug\RoomReservationApp_1.RoomFrm.resources
+E:\Programacion\Practica Bitwise\RoomReservationApp 1\RoomReservationApp 1\obj\Debug\RoomReservationApp 1.csproj.GenerateResource.cache
+E:\Programacion\Practica Bitwise\RoomReservationApp 1\RoomReservationApp 1\obj\Debug\RoomReservationApp 1.csproj.CoreCompileInputs.cache
+E:\Programacion\Practica Bitwise\RoomReservationApp 1\RoomReservationApp 1\obj\Debug\RoomReservationApp 1.csproj.CopyComplete
+E:\Programacion\Practica Bitwise\RoomReservationApp 1\RoomReservationApp 1\obj\Debug\RoomReservationApp 1.exe
+E:\Programacion\Practica Bitwise\RoomReservationApp 1\RoomReservationApp 1\obj\Debug\RoomReservationApp 1.pdb
+E:\Programacion\Practica Bitwise\RoomReservationApp 1\RoomReservationApp 1\obj\Debug\RoomReservationApp_1.Form1.resources

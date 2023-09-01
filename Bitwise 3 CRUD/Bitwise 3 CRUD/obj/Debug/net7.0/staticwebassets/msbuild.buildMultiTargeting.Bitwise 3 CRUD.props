@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Bitwise 3 CRUD.props" />
+</Project>

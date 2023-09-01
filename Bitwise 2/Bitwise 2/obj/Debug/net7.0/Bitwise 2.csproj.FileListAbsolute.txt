@@ -1,0 +1,39 @@
+E:\Programacion\Practica Bitwise\Bitwise 2\Bitwise 2\bin\Debug\net7.0\appsettings.Development.json
+E:\Programacion\Practica Bitwise\Bitwise 2\Bitwise 2\bin\Debug\net7.0\appsettings.json
+E:\Programacion\Practica Bitwise\Bitwise 2\Bitwise 2\bin\Debug\net7.0\Bitwise 2.exe
+E:\Programacion\Practica Bitwise\Bitwise 2\Bitwise 2\bin\Debug\net7.0\Bitwise 2.deps.json
+E:\Programacion\Practica Bitwise\Bitwise 2\Bitwise 2\bin\Debug\net7.0\Bitwise 2.runtimeconfig.json
+E:\Programacion\Practica Bitwise\Bitwise 2\Bitwise 2\bin\Debug\net7.0\Bitwise 2.dll
+E:\Programacion\Practica Bitwise\Bitwise 2\Bitwise 2\bin\Debug\net7.0\Bitwise 2.pdb
+E:\Programacion\Practica Bitwise\Bitwise 2\Bitwise 2\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Programacion\Practica Bitwise\Bitwise 2\Bitwise 2\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\Programacion\Practica Bitwise\Bitwise 2\Bitwise 2\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Programacion\Practica Bitwise\Bitwise 2\Bitwise 2\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Programacion\Practica Bitwise\Bitwise 2\Bitwise 2\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Programacion\Practica Bitwise\Bitwise 2\Bitwise 2\obj\Debug\net7.0\Bitwise 2.csproj.AssemblyReference.cache
+E:\Programacion\Practica Bitwise\Bitwise 2\Bitwise 2\obj\Debug\net7.0\Bitwise 2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programacion\Practica Bitwise\Bitwise 2\Bitwise 2\obj\Debug\net7.0\Bitwise 2.AssemblyInfoInputs.cache
+E:\Programacion\Practica Bitwise\Bitwise 2\Bitwise 2\obj\Debug\net7.0\Bitwise 2.AssemblyInfo.cs
+E:\Programacion\Practica Bitwise\Bitwise 2\Bitwise 2\obj\Debug\net7.0\Bitwise 2.csproj.CoreCompileInputs.cache
+E:\Programacion\Practica Bitwise\Bitwise 2\Bitwise 2\obj\Debug\net7.0\Bitwise 2.MvcApplicationPartsAssemblyInfo.cs
+E:\Programacion\Practica Bitwise\Bitwise 2\Bitwise 2\obj\Debug\net7.0\Bitwise 2.MvcApplicationPartsAssemblyInfo.cache
+E:\Programacion\Practica Bitwise\Bitwise 2\Bitwise 2\obj\Debug\net7.0\staticwebassets\msbuild.Bitwise 2.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Programacion\Practica Bitwise\Bitwise 2\Bitwise 2\obj\Debug\net7.0\staticwebassets\msbuild.build.Bitwise 2.props
+E:\Programacion\Practica Bitwise\Bitwise 2\Bitwise 2\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Bitwise 2.props
+E:\Programacion\Practica Bitwise\Bitwise 2\Bitwise 2\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Bitwise 2.props
+E:\Programacion\Practica Bitwise\Bitwise 2\Bitwise 2\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Programacion\Practica Bitwise\Bitwise 2\Bitwise 2\obj\Debug\net7.0\staticwebassets.build.json
+E:\Programacion\Practica Bitwise\Bitwise 2\Bitwise 2\obj\Debug\net7.0\staticwebassets.development.json
+E:\Programacion\Practica Bitwise\Bitwise 2\Bitwise 2\obj\Debug\net7.0\scopedcss\bundle\Bitwise 2.styles.css
+E:\Programacion\Practica Bitwise\Bitwise 2\Bitwise 2\obj\Debug\net7.0\Bitwise 2.csproj.CopyComplete
+E:\Programacion\Practica Bitwise\Bitwise 2\Bitwise 2\obj\Debug\net7.0\Bitwise 2.dll
+E:\Programacion\Practica Bitwise\Bitwise 2\Bitwise 2\obj\Debug\net7.0\refint\Bitwise 2.dll
+E:\Programacion\Practica Bitwise\Bitwise 2\Bitwise 2\obj\Debug\net7.0\Bitwise 2.pdb
+E:\Programacion\Practica Bitwise\Bitwise 2\Bitwise 2\obj\Debug\net7.0\Bitwise 2.genruntimeconfig.cache
+E:\Programacion\Practica Bitwise\Bitwise 2\Bitwise 2\obj\Debug\net7.0\ref\Bitwise 2.dll
+E:\Programacion\Practica Bitwise\Bitwise 2\Bitwise 2\bin\Debug\net7.0\System.Data.SqlClient.dll
+E:\Programacion\Practica Bitwise\Bitwise 2\Bitwise 2\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+E:\Programacion\Practica Bitwise\Bitwise 2\Bitwise 2\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+E:\Programacion\Practica Bitwise\Bitwise 2\Bitwise 2\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+E:\Programacion\Practica Bitwise\Bitwise 2\Bitwise 2\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Programacion\Practica Bitwise\Bitwise 2\Bitwise 2\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

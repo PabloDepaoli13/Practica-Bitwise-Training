@@ -1,0 +1,17 @@
+E:\Programacion\Practica Bitwise\BuyMovieApp\BuyMovieApp\bin\Debug\BuyMovieApp.exe.config
+E:\Programacion\Practica Bitwise\BuyMovieApp\BuyMovieApp\bin\Debug\BuyMovieApp.exe
+E:\Programacion\Practica Bitwise\BuyMovieApp\BuyMovieApp\bin\Debug\BuyMovieApp.pdb
+E:\Programacion\Practica Bitwise\BuyMovieApp\BuyMovieApp\bin\Debug\EntityFramework.dll
+E:\Programacion\Practica Bitwise\BuyMovieApp\BuyMovieApp\bin\Debug\EntityFramework.SqlServer.dll
+E:\Programacion\Practica Bitwise\BuyMovieApp\BuyMovieApp\bin\Debug\EntityFramework.xml
+E:\Programacion\Practica Bitwise\BuyMovieApp\BuyMovieApp\bin\Debug\EntityFramework.SqlServer.xml
+E:\Programacion\Practica Bitwise\BuyMovieApp\BuyMovieApp\obj\Debug\BuyMovieApp.csproj.AssemblyReference.cache
+E:\Programacion\Practica Bitwise\BuyMovieApp\BuyMovieApp\obj\Debug\BuyMovieApp.csproj.SuggestedBindingRedirects.cache
+E:\Programacion\Practica Bitwise\BuyMovieApp\BuyMovieApp\obj\Debug\BuyMovieApp.FrmMovies.resources
+E:\Programacion\Practica Bitwise\BuyMovieApp\BuyMovieApp\obj\Debug\BuyMovieApp.Properties.Resources.resources
+E:\Programacion\Practica Bitwise\BuyMovieApp\BuyMovieApp\obj\Debug\BuyMovieApp.csproj.GenerateResource.cache
+E:\Programacion\Practica Bitwise\BuyMovieApp\BuyMovieApp\obj\Debug\BuyMovieApp.csproj.CoreCompileInputs.cache
+E:\Programacion\Practica Bitwise\BuyMovieApp\BuyMovieApp\obj\Debug\BuyMovieApp.csproj.CopyComplete
+E:\Programacion\Practica Bitwise\BuyMovieApp\BuyMovieApp\obj\Debug\BuyMovieApp.exe
+E:\Programacion\Practica Bitwise\BuyMovieApp\BuyMovieApp\obj\Debug\BuyMovieApp.pdb
+E:\Programacion\Practica Bitwise\BuyMovieApp\BuyMovieApp\obj\Debug\BuyMovieApp.Form1.resources

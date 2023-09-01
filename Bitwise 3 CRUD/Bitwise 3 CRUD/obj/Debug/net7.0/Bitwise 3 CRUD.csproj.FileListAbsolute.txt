@@ -1,0 +1,39 @@
+E:\Programacion\Practica Bitwise\Bitwise 3 CRUD\Bitwise 3 CRUD\bin\Debug\net7.0\appsettings.Development.json
+E:\Programacion\Practica Bitwise\Bitwise 3 CRUD\Bitwise 3 CRUD\bin\Debug\net7.0\appsettings.json
+E:\Programacion\Practica Bitwise\Bitwise 3 CRUD\Bitwise 3 CRUD\bin\Debug\net7.0\Bitwise 3 CRUD.exe
+E:\Programacion\Practica Bitwise\Bitwise 3 CRUD\Bitwise 3 CRUD\bin\Debug\net7.0\Bitwise 3 CRUD.deps.json
+E:\Programacion\Practica Bitwise\Bitwise 3 CRUD\Bitwise 3 CRUD\bin\Debug\net7.0\Bitwise 3 CRUD.runtimeconfig.json
+E:\Programacion\Practica Bitwise\Bitwise 3 CRUD\Bitwise 3 CRUD\bin\Debug\net7.0\Bitwise 3 CRUD.dll
+E:\Programacion\Practica Bitwise\Bitwise 3 CRUD\Bitwise 3 CRUD\bin\Debug\net7.0\Bitwise 3 CRUD.pdb
+E:\Programacion\Practica Bitwise\Bitwise 3 CRUD\Bitwise 3 CRUD\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Programacion\Practica Bitwise\Bitwise 3 CRUD\Bitwise 3 CRUD\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\Programacion\Practica Bitwise\Bitwise 3 CRUD\Bitwise 3 CRUD\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Programacion\Practica Bitwise\Bitwise 3 CRUD\Bitwise 3 CRUD\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Programacion\Practica Bitwise\Bitwise 3 CRUD\Bitwise 3 CRUD\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Programacion\Practica Bitwise\Bitwise 3 CRUD\Bitwise 3 CRUD\bin\Debug\net7.0\System.Data.SqlClient.dll
+E:\Programacion\Practica Bitwise\Bitwise 3 CRUD\Bitwise 3 CRUD\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+E:\Programacion\Practica Bitwise\Bitwise 3 CRUD\Bitwise 3 CRUD\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+E:\Programacion\Practica Bitwise\Bitwise 3 CRUD\Bitwise 3 CRUD\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+E:\Programacion\Practica Bitwise\Bitwise 3 CRUD\Bitwise 3 CRUD\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Programacion\Practica Bitwise\Bitwise 3 CRUD\Bitwise 3 CRUD\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Programacion\Practica Bitwise\Bitwise 3 CRUD\Bitwise 3 CRUD\obj\Debug\net7.0\Bitwise 3 CRUD.csproj.AssemblyReference.cache
+E:\Programacion\Practica Bitwise\Bitwise 3 CRUD\Bitwise 3 CRUD\obj\Debug\net7.0\Bitwise 3 CRUD.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programacion\Practica Bitwise\Bitwise 3 CRUD\Bitwise 3 CRUD\obj\Debug\net7.0\Bitwise 3 CRUD.AssemblyInfoInputs.cache
+E:\Programacion\Practica Bitwise\Bitwise 3 CRUD\Bitwise 3 CRUD\obj\Debug\net7.0\Bitwise 3 CRUD.AssemblyInfo.cs
+E:\Programacion\Practica Bitwise\Bitwise 3 CRUD\Bitwise 3 CRUD\obj\Debug\net7.0\Bitwise 3 CRUD.csproj.CoreCompileInputs.cache
+E:\Programacion\Practica Bitwise\Bitwise 3 CRUD\Bitwise 3 CRUD\obj\Debug\net7.0\Bitwise 3 CRUD.MvcApplicationPartsAssemblyInfo.cs
+E:\Programacion\Practica Bitwise\Bitwise 3 CRUD\Bitwise 3 CRUD\obj\Debug\net7.0\Bitwise 3 CRUD.MvcApplicationPartsAssemblyInfo.cache
+E:\Programacion\Practica Bitwise\Bitwise 3 CRUD\Bitwise 3 CRUD\obj\Debug\net7.0\staticwebassets\msbuild.Bitwise 3 CRUD.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Programacion\Practica Bitwise\Bitwise 3 CRUD\Bitwise 3 CRUD\obj\Debug\net7.0\staticwebassets\msbuild.build.Bitwise 3 CRUD.props
+E:\Programacion\Practica Bitwise\Bitwise 3 CRUD\Bitwise 3 CRUD\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Bitwise 3 CRUD.props
+E:\Programacion\Practica Bitwise\Bitwise 3 CRUD\Bitwise 3 CRUD\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Bitwise 3 CRUD.props
+E:\Programacion\Practica Bitwise\Bitwise 3 CRUD\Bitwise 3 CRUD\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Programacion\Practica Bitwise\Bitwise 3 CRUD\Bitwise 3 CRUD\obj\Debug\net7.0\staticwebassets.build.json
+E:\Programacion\Practica Bitwise\Bitwise 3 CRUD\Bitwise 3 CRUD\obj\Debug\net7.0\staticwebassets.development.json
+E:\Programacion\Practica Bitwise\Bitwise 3 CRUD\Bitwise 3 CRUD\obj\Debug\net7.0\scopedcss\bundle\Bitwise 3 CRUD.styles.css
+E:\Programacion\Practica Bitwise\Bitwise 3 CRUD\Bitwise 3 CRUD\obj\Debug\net7.0\Bitwise 3 CRUD.csproj.CopyComplete
+E:\Programacion\Practica Bitwise\Bitwise 3 CRUD\Bitwise 3 CRUD\obj\Debug\net7.0\Bitwise 3 CRUD.dll
+E:\Programacion\Practica Bitwise\Bitwise 3 CRUD\Bitwise 3 CRUD\obj\Debug\net7.0\refint\Bitwise 3 CRUD.dll
+E:\Programacion\Practica Bitwise\Bitwise 3 CRUD\Bitwise 3 CRUD\obj\Debug\net7.0\Bitwise 3 CRUD.pdb
+E:\Programacion\Practica Bitwise\Bitwise 3 CRUD\Bitwise 3 CRUD\obj\Debug\net7.0\Bitwise 3 CRUD.genruntimeconfig.cache
+E:\Programacion\Practica Bitwise\Bitwise 3 CRUD\Bitwise 3 CRUD\obj\Debug\net7.0\ref\Bitwise 3 CRUD.dll

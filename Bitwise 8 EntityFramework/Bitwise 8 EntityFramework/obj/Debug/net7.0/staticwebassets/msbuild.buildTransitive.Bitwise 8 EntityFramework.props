@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Bitwise 8 EntityFramework.props" />
+</Project>
