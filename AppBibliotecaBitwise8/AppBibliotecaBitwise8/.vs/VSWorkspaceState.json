@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DAL",
+    "\\DAL\\DataContext",
+    "\\DAL\\Implementatios",
+    "\\DAL\\Interfaces",
+    "\\DTO",
+    "\\Migrations",
+    "\\Models",
+    "\\obj",
+    "\\Properties"
+  ],
+  "SelectedNode": "\\DAL\\Implementatios\\UsuarioRepository.cs",
+  "PreviewInSolutionExplorer": false
+}

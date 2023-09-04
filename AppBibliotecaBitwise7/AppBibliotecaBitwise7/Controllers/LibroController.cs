@@ -33,7 +33,7 @@ namespace AppBibliotecaBitwise7.Controllers
 
 
         //[ResponseCache(Duration = 30)]
-        //[ResponseCache(CacheProfileName = "PorDefecto")]
+        [ResponseCache(CacheProfileName = "PorDefecto")]
         //[ResponseCache(Location = ResponseCacheLocation.None, NoStore = true )] Otra manera en el caso de que haya error no guardar
 
         [HttpGet("Relacion/{id}")]

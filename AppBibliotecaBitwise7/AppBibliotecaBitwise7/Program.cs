@@ -70,11 +70,10 @@ builder.Services.AddScoped<IUsuaryRepository, UsuarioRepository>();
 
 var key = builder.Configuration.GetValue<string>("ApiSettings:Secreta");
 
-builder.Services.AddAuthentication(x =>
+builder.Services.AddAuthentication(opt =>
 {
-    x.DefaultScheme = JwtBearerDefaults.AuthenticationScheme;
-    x.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
-
+    opt.DefaultScheme = JwtBearerDefaults.AuthenticationScheme;
+    opt.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
 }).AddJwtBearer(x =>
 {
     x.RequireHttpsMetadata = false;
@@ -84,7 +83,7 @@ builder.Services.AddAuthentication(x =>
         ValidateIssuerSigningKey = true,
         IssuerSigningKey = new SymmetricSecurityKey(Encoding.ASCII.GetBytes(key)),
         ValidateIssuer = false,
-        ValidateAudience= false,
+        ValidateAudience= false
     };
 });
 

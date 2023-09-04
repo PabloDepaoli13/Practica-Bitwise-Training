@@ -3,6 +3,9 @@ using AppBibliotecaBitwise8.DAL.Interfaces;
 using AppBibliotecaBitwise8.DTO;
 using AppBibliotecaBitwise8.Models;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.IdentityModel.Tokens;
+using System.IdentityModel.Tokens.Jwt;
+using System.Security.Claims;
 using System.Text;
 using XSystem.Security.Cryptography;
 
@@ -11,10 +14,11 @@ namespace AppBibliotecaBitwise8.DAL.Implementatios
     public class UsuarioRepository : GenericRepository<Usuario>, IUsuarioRepository
     {
         private readonly AplicationDataContext _dataContext;
-        public UsuarioRepository(AplicationDataContext dataContext) : base(dataContext)
+        private string claveSecreta;
+        public UsuarioRepository(AplicationDataContext dataContext, IConfiguration config) : base(dataContext)
         {
             _dataContext = dataContext;
-            
+            claveSecreta = config.GetValue<string>("APIConfig:ClaveSecreta");
         }
 
         public async Task<bool> isUnique(string nombreUser)
@@ -25,7 +29,7 @@ namespace AppBibliotecaBitwise8.DAL.Implementatios
             return false;
         }
 
-        public Task<UsuarioLoginRespuestaDTO> LoginUser(UsuarioLoginDTO usuario)
+        public async Task<UsuarioLoginRespuestaDTO> LoginUser(UsuarioLoginDTO usuario)
         {
             var contraseñaEncriptada = MD5pass(usuario.Password);
 
@@ -33,8 +37,39 @@ namespace AppBibliotecaBitwise8.DAL.Implementatios
 
             if (userEncontrado == null)
             {
-
+                return new UsuarioLoginRespuestaDTO()
+                {
+                    Token = "",
+                    usuario = null
+                };
             }
+
+            var manejadorToken = new JwtSecurityTokenHandler();
+
+            var key = Encoding.ASCII.GetBytes(claveSecreta);
+
+            var tokenDescriptor = new SecurityTokenDescriptor()
+            {
+                Subject = new ClaimsIdentity(new Claim[]
+                {
+                    new Claim(ClaimTypes.Name , userEncontrado.NombreUsuario.ToString()),
+                    new Claim(ClaimTypes.Role , userEncontrado.Role.ToString())
+                }),
+                Expires = DateTime.UtcNow.AddDays(1),
+                SigningCredentials = new (new SymmetricSecurityKey(key), SecurityAlgorithms.HmacSha256Signature)
+            };
+
+            var token = manejadorToken.CreateToken(tokenDescriptor);
+
+            UsuarioLoginRespuestaDTO usuarioLoginRespuestaDTO = new UsuarioLoginRespuestaDTO()
+            {
+                Token = manejadorToken.WriteToken(token),
+                usuario = userEncontrado
+
+            };
+            return usuarioLoginRespuestaDTO;
+
+
         }
 
         public async Task<bool> RegisterUser(UsuarioRegistroDTO usuario)

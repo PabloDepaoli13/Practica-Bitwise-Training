@@ -2,7 +2,9 @@
 using AppBibliotecaBitwise8.DTO;
 using AppBibliotecaBitwise8.Models;
 using AutoMapper;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.AspNetCore.Mvc;
 using System.Net;
 
@@ -31,6 +33,7 @@ namespace AppBibliotecaBitwise8.Controllers
             return Ok(usuariosNew);
         }
 
+        [Authorize(Roles ="admin")]
         [HttpPost]
 
         public async Task<ActionResult> CargarUsuario(UsuarioRegistroDTO usuario)
@@ -57,6 +60,25 @@ namespace AppBibliotecaBitwise8.Controllers
             _respuestaApi.Result= result;
             return Ok(_respuestaApi);
 
+        }
+
+        [HttpPost("login")]
+
+        public async Task<IActionResult> SubirUsuario(UsuarioLoginDTO usuarioLogin)
+        {
+            var usuarioToken = await _usuarioRepository.LoginUser(usuarioLogin);
+            if (usuarioToken.Token == "" || usuarioToken.usuario == null)
+            {
+                _respuestaApi.StatusCode = HttpStatusCode.BadRequest;
+                _respuestaApi.ErrorMessages.Add("El usuario o contrseña son incorrectos");
+                _respuestaApi.isSucces = false;
+                return BadRequest(_respuestaApi);
+            }
+            _respuestaApi.StatusCode = HttpStatusCode.OK;
+            _respuestaApi.ErrorMessages.Add("Inicio de sesion correcto");
+            _respuestaApi.isSucces = true;
+            _respuestaApi.Result = usuarioToken;
+            return Ok(_respuestaApi);
         }
     }
 }

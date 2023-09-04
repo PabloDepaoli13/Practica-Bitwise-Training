@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Programacion\\Practica Bitwise\\AppBibliotecaBitwise5\\AppBibliotecaBitwise5\\AppBibliotecaBitwise5.csproj": {}
+    "E:\\Programacion\\Practica Bitwise\\Practica-Bitwise-Training\\AppBibliotecaBitwise5\\AppBibliotecaBitwise5\\AppBibliotecaBitwise5.csproj": {}
   },
   "projects": {
-    "E:\\Programacion\\Practica Bitwise\\AppBibliotecaBitwise5\\AppBibliotecaBitwise5\\AppBibliotecaBitwise5.csproj": {
+    "E:\\Programacion\\Practica Bitwise\\Practica-Bitwise-Training\\AppBibliotecaBitwise5\\AppBibliotecaBitwise5\\AppBibliotecaBitwise5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Programacion\\Practica Bitwise\\AppBibliotecaBitwise5\\AppBibliotecaBitwise5\\AppBibliotecaBitwise5.csproj",
+        "projectUniqueName": "E:\\Programacion\\Practica Bitwise\\Practica-Bitwise-Training\\AppBibliotecaBitwise5\\AppBibliotecaBitwise5\\AppBibliotecaBitwise5.csproj",
         "projectName": "AppBibliotecaBitwise5",
-        "projectPath": "E:\\Programacion\\Practica Bitwise\\AppBibliotecaBitwise5\\AppBibliotecaBitwise5\\AppBibliotecaBitwise5.csproj",
+        "projectPath": "E:\\Programacion\\Practica Bitwise\\Practica-Bitwise-Training\\AppBibliotecaBitwise5\\AppBibliotecaBitwise5\\AppBibliotecaBitwise5.csproj",
         "packagesPath": "C:\\Users\\Pablo Pc\\.nuget\\packages\\",
-        "outputPath": "E:\\Programacion\\Practica Bitwise\\AppBibliotecaBitwise5\\AppBibliotecaBitwise5\\obj\\",
+        "outputPath": "E:\\Programacion\\Practica Bitwise\\Practica-Bitwise-Training\\AppBibliotecaBitwise5\\AppBibliotecaBitwise5\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

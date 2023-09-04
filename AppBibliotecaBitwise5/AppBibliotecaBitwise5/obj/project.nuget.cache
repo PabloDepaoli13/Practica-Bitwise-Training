@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eGfEVelfWuckPWsrQIbeelrWIpDFybC9K8LEAmP55aOujJH5Zr7oRlJCWrGP6kWIn/XDPXZYgE/3Qbf7DM5MfQ==",
+  "dgSpecHash": "QPYCAdlnwlSFdo3Vg4fe/54zwXdysIK3tGhymgmzlpKiJDGSt59AEWnzhXiZLOIPKsQITdP4hS0b2ekRT/mOLw==",
   "success": true,
-  "projectFilePath": "E:\\Programacion\\Practica Bitwise\\AppBibliotecaBitwise5\\AppBibliotecaBitwise5\\AppBibliotecaBitwise5.csproj",
+  "projectFilePath": "E:\\Programacion\\Practica Bitwise\\Practica-Bitwise-Training\\AppBibliotecaBitwise5\\AppBibliotecaBitwise5\\AppBibliotecaBitwise5.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Pablo Pc\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Pablo Pc\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

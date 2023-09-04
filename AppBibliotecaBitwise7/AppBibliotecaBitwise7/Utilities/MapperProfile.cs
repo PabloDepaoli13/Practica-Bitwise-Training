@@ -13,6 +13,7 @@ namespace AppBibliotecaBitwise7.Utilities
 
             CreateMap<Libro, LibroDTO>().ForMember(e => e.FechaPublic, opt => opt.MapFrom(e => e.FechaPublic.ToString("dd/MM/yyyy"))).ForMember(e => e.nombreGenero, opt => opt.MapFrom(e => e.Genero.Nombre)).ForMember(e => e.nombreAutor, opt => opt.MapFrom(e => e.Autor.Nombre));
             CreateMap<Libro, LibroGeneroDTO>().ForMember(e => e.FechaPublic, opt => opt.MapFrom(e => e.FechaPublic.ToString("dd/MM/yyyy"))).ForMember(e => e.nombreGenero, opt => opt.MapFrom(e => e.Genero.Nombre));
+
             CreateMap<LibroCreacionDTO, Libro>().ForMember(e => e.FechaPublic, opt => opt.MapFrom(e => DateTime.Parse(e.FechaPublic)));
 
             CreateMap<ComentarioDTO, Comentario>();

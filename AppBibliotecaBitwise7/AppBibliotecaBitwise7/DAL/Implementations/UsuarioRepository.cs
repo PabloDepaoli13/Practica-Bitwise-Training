@@ -33,9 +33,11 @@ namespace AppBibliotecaBitwise7.DAL.Implementations
         {
             var passwordEncriptado = ObtenerMD5(usuarioLogin.Password);
 
-            var usuarioEncontrado = await _dbContext.Usuarios.FirstOrDefaultAsync(e => e.NombreUsuario.ToLower() == usuarioLogin.NombreUsuario.ToLower() && e.Password == passwordEncriptado);
+            var key = Encoding.ASCII.GetBytes(claveSecreta);
 
-            if (usuarioEncontrado == null)
+            var EncontrarUser = await _dbContext.Usuarios.FirstOrDefaultAsync(e => e.NombreUsuario == usuarioLogin.NombreUsuario && passwordEncriptado == e.Password);
+
+            if (EncontrarUser == null)
             {
                 return new UsuarioLoginRespuestaDTO()
                 {
@@ -45,17 +47,17 @@ namespace AppBibliotecaBitwise7.DAL.Implementations
             }
 
             var manejadorToken = new JwtSecurityTokenHandler();
-            var key = Encoding.ASCII.GetBytes(claveSecreta);
-
-            var tokenDescriptor = new SecurityTokenDescriptor
+            SecurityTokenDescriptor tokenDescriptor = new SecurityTokenDescriptor()
             {
                 Subject = new ClaimsIdentity(new Claim[]
                 {
-                    new Claim(ClaimTypes.Name,  usuarioEncontrado.NombreUsuario.ToString()),
-                    new Claim(ClaimTypes.Role,  usuarioEncontrado.Role.ToString())
+                    new Claim(ClaimTypes.Name, EncontrarUser.NombreUsuario.ToString()),
+                    new Claim(ClaimTypes.Role, EncontrarUser.Role.ToString())
                 }),
                 Expires = DateTime.UtcNow.AddDays(1),
-                SigningCredentials = new(new SymmetricSecurityKey(key), SecurityAlgorithms.HmacSha256Signature)
+                SigningCredentials = new (new SymmetricSecurityKey(key), 
+                SecurityAlgorithms.HmacSha256Signature)
+
             };
 
             var token = manejadorToken.CreateToken(tokenDescriptor);
@@ -63,9 +65,12 @@ namespace AppBibliotecaBitwise7.DAL.Implementations
             UsuarioLoginRespuestaDTO usuarioLoginRespuestaDTO = new UsuarioLoginRespuestaDTO()
             {
                 Token = manejadorToken.WriteToken(token),
-                usuario = usuarioEncontrado
+                usuario = EncontrarUser
             };
-            return usuarioLoginRespuestaDTO;
+
+            return usuarioLoginRespuestaDTO; 
+
+
         }
 
         public async Task<bool> Register(UsuarioRegistroDTO usuarioRegistroDTO)

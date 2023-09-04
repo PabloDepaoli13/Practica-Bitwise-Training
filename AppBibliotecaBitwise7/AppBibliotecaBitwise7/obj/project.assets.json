@@ -4063,11 +4063,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Programacion\\Practica Bitwise\\AppBibliotecaBitwise7\\AppBibliotecaBitwise7\\AppBibliotecaBitwise7.csproj",
+      "projectUniqueName": "E:\\Programacion\\Practica Bitwise\\Practica-Bitwise-Training\\AppBibliotecaBitwise7\\AppBibliotecaBitwise7\\AppBibliotecaBitwise7.csproj",
       "projectName": "AppBibliotecaBitwise7",
-      "projectPath": "E:\\Programacion\\Practica Bitwise\\AppBibliotecaBitwise7\\AppBibliotecaBitwise7\\AppBibliotecaBitwise7.csproj",
+      "projectPath": "E:\\Programacion\\Practica Bitwise\\Practica-Bitwise-Training\\AppBibliotecaBitwise7\\AppBibliotecaBitwise7\\AppBibliotecaBitwise7.csproj",
       "packagesPath": "C:\\Users\\Pablo Pc\\.nuget\\packages\\",
-      "outputPath": "E:\\Programacion\\Practica Bitwise\\AppBibliotecaBitwise7\\AppBibliotecaBitwise7\\obj\\",
+      "outputPath": "E:\\Programacion\\Practica Bitwise\\Practica-Bitwise-Training\\AppBibliotecaBitwise7\\AppBibliotecaBitwise7\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
